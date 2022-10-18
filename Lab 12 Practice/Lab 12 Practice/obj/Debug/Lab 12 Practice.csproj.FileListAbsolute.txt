@@ -1,0 +1,11 @@
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\bin\Debug\Lab 12 Practice.exe.config
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\bin\Debug\Lab 12 Practice.exe
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\bin\Debug\Lab 12 Practice.pdb
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab 12 Practice.csproj.AssemblyReference.cache
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab 12 Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab_12_Practice.Form1.resources
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab_12_Practice.Properties.Resources.resources
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab 12 Practice.csproj.GenerateResource.cache
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab 12 Practice.csproj.CoreCompileInputs.cache
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab 12 Practice.exe
+C:\Users\Shrek\Desktop\Lab 12 Practice\Lab 12 Practice\obj\Debug\Lab 12 Practice.pdb
